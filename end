@@ -1,0 +1,35 @@
+[33mcommit e0c052304dc230ae84f9f830ba82c4c6c95c08a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mDesarrollo[m[33m)[m
+Author: unknown <marcoantonio573103@gmail.com>
+Date:   Wed Mar 13 21:38:50 2024 -0600
+
+    clase_empleado
+
+[33mcommit 503b097fcd0cc757a283c0d23ea0872f63cbdc08[m[33m ([m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Desarrollo[m[33m)[m
+Author: UsiasSG <160407522+UsiasSG@users.noreply.github.com>
+Date:   Wed Mar 13 21:13:18 2024 -0600
+
+    agregar clase Cliente
+
+[33mcommit b36dbf7ae5709174fe9aa2a7c56f3042db92252b[m
+Author: UsiasSG <160407522+UsiasSG@users.noreply.github.com>
+Date:   Wed Mar 13 20:50:41 2024 -0600
+
+    Delete Cliente.cpp
+
+[33mcommit d0dc04240d1cd9bd3550cd671007cf77c38b584b[m
+Author: UsiasSG <160407522+UsiasSG@users.noreply.github.com>
+Date:   Wed Mar 13 20:27:29 2024 -0600
+
+    Add files via upload
+
+[33mcommit 3b1ea42e92a43f8f193e956c884f7ee02a2db88c[m
+Author: Elias Villatoro <villatoroelias174@gmail.com>
+Date:   Sun Mar 10 08:48:28 2024 -0600
+
+    agregar clase persona
+
+[33mcommit 5a4f56c69adefa401e67737451cace502c48ea65[m
+Author: UsiasSG <160407522+UsiasSG@users.noreply.github.com>
+Date:   Sun Mar 10 08:26:52 2024 -0600
+
+    Initial commit
