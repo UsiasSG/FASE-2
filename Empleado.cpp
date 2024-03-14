@@ -1,7 +1,7 @@
 #include "Persona.cpp"
 #include <iostream>
 using namespace std;
-class Cliente : Persona{
+class Empleado : Persona{
 	  //atributos
 	  private : string codigo_empleado, puesto;
 	  public : 
