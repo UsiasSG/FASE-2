@@ -16,5 +16,9 @@ class Persona{
 		}
 	//metodos
 	void mostrar();
+        void leer();
+        void actualizar();
+        void crear ();
+        void borar();
 	
 };
